@@ -20,9 +20,11 @@ index and apply case annotation
 apply treetagger with ICE tagset (-> .ttice files)
 merge-files (creates one "final.annot" file)
 
+The RefAnnot2vec_v1.pl program is an addon that converts annotated texts into vectors. All occurrences of it, this and that is extracted from all annotated texts and; for each one of them, a vector of features is constructed. the result is a vector matrix that can be used in Machine Learning analysis.
 
 Copygight Thomas Gaillat 
 University of Rennes
 University of Sorbonne Paris Cité
+Insight Centre for Data Analytics - National University of Ireland/NUIG Galway
 
 
