@@ -1,5 +1,5 @@
 # RefAnnot
-RefAnnot is a bundle of PERL program to apply referential annotation and POS to any corpus of texts. It is deisgned to include learner-specific annotation for the treatment of this, that and it. They constitute a microsystem which poses problems to learners of English.
+RefAnnot is a bundle of PERL programs to apply referential annotation and POS to any corpus of texts. It is designed to include learner-specific annotation for the treatment of this, that and it. They constitute a microsystem which poses problems to learners of English.
 This qpp takes raw text as input and outputs column format files including the annotations.
 Text files should not include ID names within text bodies. Use txt ID name as filename.
  
